@@ -1,2 +1,3 @@
 # Kather
-An app written by react native.
+[Kather logo](./logo.jpg?raw=true)
+> This app is a demo of an react-native turtorial.
